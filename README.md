@@ -46,7 +46,7 @@ MyNotebook is a full-stack web application built using the MERN (MongoDB, Expres
     cd backend
     npm install
 
-    # Install frontend dependencies
+    # Install frontend dependencies [Go back to parent directory]
     cd ../
     npm install
     ```
@@ -58,7 +58,7 @@ MyNotebook is a full-stack web application built using the MERN (MongoDB, Expres
     cd backend
     npm start
 
-    # Run frontend server
+    # Run frontend server  [Go back to parent directory]
     cd ../
     npm start
     ```
