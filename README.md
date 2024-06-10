@@ -51,7 +51,17 @@ MyNotebook is a full-stack web application built using the MERN (MongoDB, Expres
     npm install
     ```
 
-3. **Run the application:**
+3. **Set up environment variables:**
+
+    Create a `.env` file in the `backend` directory and add the following:
+
+    ```env
+    MONGO_URI=your_mongo_db_connection_string
+    JWT_SECRET=your_jwt_secret
+    ```
+
+
+4. **Run the application:**
 
     ```bash
     # Run backend server
